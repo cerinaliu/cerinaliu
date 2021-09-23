@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cerinaliu
 - 👀 I’m interested in SQL & Python & R
-- 🌱 I’m currently finding jobs as Business Analyst/ Data Analyst/ Data Scientist 
+- 🌱 I’m contributing to become a professional Business Analyst/ Data Analyst/ Data Scientist.
 - 📫 Please reach me zhenliu@brandeis.edu
 
 
